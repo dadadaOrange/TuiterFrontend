@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 This is to test how to git push. 
+We pushed successfully! 
 
 ## Available Scripts
 
